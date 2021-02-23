@@ -16,6 +16,13 @@ Provide Algorand developers a framework for building secure dApps quickly uses a
 
 There is currently scaffold-eth that is developed for the Ethereum platform where the movtivation for this project started.  Although, this is a great project. The focus of scaffold-algo will not only be a framework for quickly and easily developing and deploying dApps and smart contract to the Algorand blockchain<br>It will be built with Algorand development best practices baked in. The are many tools currently that I would leverage.<br>
 
+# Features
+
+Like Scaffold-Eth. Scaffold-Algo will be a combination and blending of various different Algorand and Ecosystem technologies. Here is a list of some tools I'm thinking of using and 
+
+Sandbox: algod + indexer), Algorand Smart Contract (TEAL)<br>
+WebApp (React Framework). Spins up a network, creates accounts, deploys a hello world application (set of smart contracts) and presents the WebApp front end to the user. Guides the user thru modifying the smart contracts and UI to iterate on the DApp.<br>
+
 [ReactJS](https://www.typescriptlang.org/docs/handbook/react.html "")<br>
 For the visual UI/UX ALGO components framework(send /sign transaction / QR Codes) etc Premade dApp templates<br>
 [Scaffold-Eth](https://github.com/austintgriffith/scaffold-eth "")<br>
